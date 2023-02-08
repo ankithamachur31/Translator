@@ -63,6 +63,16 @@ drawer: Drawer(
   title: new Text("Menu"),
 
 )
+      ,ListTile(
+        title: Text("Languages"),
+      ),
+      ListTile(
+        title: Text("Settings"),
+      ),
+      ListTile(
+        title: Text("Exit"),
+      )
+
     ],
   ),
 ),
